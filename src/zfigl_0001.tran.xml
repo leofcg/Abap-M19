@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TRAN" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TSTC>
+    <TCODE>ZFIGL_0001</TCODE>
+    <PGMNA>ZFIGL_0001</PGMNA>
+    <DYPNO>1000</DYPNO>
+    <CINFO>hA==</CINFO>
+   </TSTC>
+   <TSTCC>
+    <TCODE>ZFIGL_0001</TCODE>
+   </TSTCC>
+   <TSTCT>
+    <SPRSL>S</SPRSL>
+    <TCODE>ZFIGL_0001</TCODE>
+    <TTEXT>BPC - Programa de bajada de archivo</TTEXT>
+   </TSTCT>
+   <AUTHORIZATIONS>
+    <TSTCA>
+     <TCODE>ZFIGL_0001</TCODE>
+     <OBJCT>S_PROGRAM</OBJCT>
+     <FIELD>P_ACTION</FIELD>
+    </TSTCA>
+    <TSTCA>
+     <TCODE>ZFIGL_0001</TCODE>
+     <OBJCT>S_PROGRAM</OBJCT>
+     <FIELD>P_GROUP</FIELD>
+     <VALUE>DISP</VALUE>
+    </TSTCA>
+   </AUTHORIZATIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
